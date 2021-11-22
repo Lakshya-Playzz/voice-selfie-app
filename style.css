@@ -1,0 +1,30 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body{
+    background-image: url("https://image.freepik.com/free-vector/green-yellow-abstract-background_53876-99558.jpg") ;
+    background-size: cover ;
+}
+#result{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
